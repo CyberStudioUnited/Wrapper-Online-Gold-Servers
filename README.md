@@ -1,2 +1,3 @@
-# Wrapper-Online-Gold-Servers
-the servers for the legendary "wrapper online gold", a remake of wrapper created by benson and adapted by me.
+# d3v4eglovri8yt cloudfront recreation
+ 
+This is a cool recreation of the d3v4eglovri8yt cloudfront server, with some extra stuff added.
